@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好 👋
 
 <!--
 **liuchang0523/liuchang0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Nice to meet you！😄
